@@ -117,7 +117,8 @@ j getRidZeroLoop
 
 
 EXITBase4:
-
+li $v0, 10
+syscall
 
 
 
